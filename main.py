@@ -1,6 +1,7 @@
 """a simple tic tac toe game"""
 
 #hi, I modified this file through a simple comment
+#hello another test comment
 
 def char_to_printable(cell):
     """if field state is like initialisation: " ", if not return X or O"""
